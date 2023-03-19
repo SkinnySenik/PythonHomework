@@ -4,7 +4,7 @@ def print_menu():
     "2. Save the file\n"
     "3. Show the contacts\n"
     "4. Add the contact\n"
-    "5. Replace the contact\n"
+    "5. Change the contact\n"
     "6. Find the contact\n"
     "7. Delete the contact\n"
     "8. Exit")
